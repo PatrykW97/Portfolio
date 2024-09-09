@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Public Sans';
+    src: url('/assets/fonts/Public_Sans/PublicSans-VariableFont_wght.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Rubik';
+    src: url('/assets/fonts/Rubik/Rubik-VariableFont_wght.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
